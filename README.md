@@ -95,6 +95,11 @@ python main.py
 
 随机监听当前活跃的通话
 
+## VoIP电话信号和语音推流
+
+在对应服务器单独运行rtp_forwarder.py.
+具体使用方法请看rtp_forward/README.md
+
 ## UDP 数据包格式
 
 ```
