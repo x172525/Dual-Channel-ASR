@@ -69,7 +69,7 @@ python main.py
 **连接参数**:
 ```json
 {
-    "employee_number": "员工工号",
+    "employee_number": "员工电话号码",
     "trace_id": "跟踪ID(可选)"
 }
 ```
