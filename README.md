@@ -157,4 +157,4 @@ dual-channel-asr/
 
 ## License
 
-MIT License
+GPL-3.0 License
